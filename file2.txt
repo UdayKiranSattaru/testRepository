@@ -1,5 +1,2 @@
 
-i have added a statement
-
-this is something new
-
+master change in file2
